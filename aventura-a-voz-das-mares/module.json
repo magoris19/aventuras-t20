@@ -2,6 +2,8 @@
   "id": "aventura-a-voz-das-mares",
   "title": "Aventura: A Voz das Marés",
   "version": "1.0.0",
+  "manifest": "https://github.com/magoris19/aventuras-t20/raw/main/aventura-a-voz-das-mares/module.json",
+  "download": "https://github.com/magoris19/aventuras-t20/archive/refs/heads/main.zip",
   "compatibility": {
     "minimum": "9",
     "verified": "11"
