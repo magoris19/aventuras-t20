@@ -1,0 +1,26 @@
+{
+  "id": "aventura-a-voz-das-mares",
+  "title": "Aventura: A Voz das Marés",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "11"
+  },
+  "description": "Aventura presente no Kit Introdutório de Tormenta20, feita para personagens de Nível 1. Acesse: https://jamboeditora.com.br/produto/tormenta20-kit-introdutorio/",
+  "authors": [
+    {
+      "name": "Módulo do Foundry por: Magoris",
+      "discord": "magoris",
+      "url": "https://jamboeditora.com.br/produto/tormenta20-kit-introdutorio/"
+    }
+  ],
+  "packs": [
+    {
+      "label": "A Voz das Marés",
+      "name": "a-voz-das-mares",
+      "type": "Adventure",
+      "system": "tormenta20",
+      "path": "packs/a-voz-das-mares"
+    }
+  ]
+}
